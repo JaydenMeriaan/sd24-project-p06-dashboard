@@ -1,0 +1,1494 @@
+{
+  "Africa": {
+    "bg": "hsl(159deg 80% 55%)",
+    "border": "hsl(129deg 70% 35%)"
+  },
+  "Albania": {
+    "bg": "hsl(123deg 80% 55%)",
+    "border": "hsl(93deg 70% 35%)"
+  },
+  "Algeria": {
+    "bg": "hsl(300deg 80% 55%)",
+    "border": "hsl(270deg 70% 35%)"
+  },
+  "Americas": {
+    "bg": "hsl(80deg 80% 55%)",
+    "border": "hsl(50deg 70% 35%)"
+  },
+  "Angola": {
+    "bg": "hsl(203deg 80% 55%)",
+    "border": "hsl(173deg 70% 35%)"
+  },
+  "Argentina": {
+    "bg": "hsl(174deg 80% 55%)",
+    "border": "hsl(144deg 70% 35%)"
+  },
+  "Armenia": {
+    "bg": "hsl(136deg 80% 55%)",
+    "border": "hsl(106deg 70% 35%)"
+  },
+  "Asia": {
+    "bg": "hsl(183deg 80% 55%)",
+    "border": "hsl(153deg 70% 35%)"
+  },
+  "Australia": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Australia and New Zealand": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Austria": {
+    "bg": "hsl(296deg 80% 55%)",
+    "border": "hsl(266deg 70% 35%)"
+  },
+  "Azerbaijan": {
+    "bg": "hsl(132deg 80% 55%)",
+    "border": "hsl(102deg 70% 35%)"
+  },
+  "Bangladesh": {
+    "bg": "hsl(244deg 80% 55%)",
+    "border": "hsl(214deg 70% 35%)"
+  },
+  "Barbados": {
+    "bg": "hsl(215deg 80% 55%)",
+    "border": "hsl(185deg 70% 35%)"
+  },
+  "Belarus": {
+    "bg": "hsl(135deg 80% 55%)",
+    "border": "hsl(105deg 70% 35%)"
+  },
+  "Belgium": {
+    "bg": "#000000",
+    "border": "#FFD700"
+  },
+  "Belize": {
+    "bg": "hsl(38deg 80% 55%)",
+    "border": "hsl(8deg 70% 35%)"
+  },
+  "Benin": {
+    "bg": "hsl(101deg 80% 55%)",
+    "border": "hsl(71deg 70% 35%)"
+  },
+  "Bhutan": {
+    "bg": "hsl(225deg 80% 55%)",
+    "border": "hsl(195deg 70% 35%)"
+  },
+  "Bolivia (Plurinational State of)": {
+    "bg": "hsl(64deg 80% 55%)",
+    "border": "hsl(34deg 70% 35%)"
+  },
+  "Bosnia and Herzegovina": {
+    "bg": "hsl(0deg 80% 55%)",
+    "border": "hsl(330deg 70% 35%)"
+  },
+  "Botswana": {
+    "bg": "hsl(194deg 80% 55%)",
+    "border": "hsl(164deg 70% 35%)"
+  },
+  "Brazil": {
+    "bg": "#009C3B",
+    "border": "#FFDF00"
+  },
+  "Bulgaria": {
+    "bg": "hsl(60deg 80% 55%)",
+    "border": "hsl(30deg 70% 35%)"
+  },
+  "Burkina Faso": {
+    "bg": "hsl(210deg 80% 55%)",
+    "border": "hsl(180deg 70% 35%)"
+  },
+  "Burundi": {
+    "bg": "hsl(190deg 80% 55%)",
+    "border": "hsl(160deg 70% 35%)"
+  },
+  "Cabo Verde": {
+    "bg": "hsl(140deg 80% 55%)",
+    "border": "hsl(110deg 70% 35%)"
+  },
+  "Cameroon": {
+    "bg": "hsl(69deg 80% 55%)",
+    "border": "hsl(39deg 70% 35%)"
+  },
+  "Canada": {
+    "bg": "#FF0000",
+    "border": "#FFFFFF"
+  },
+  "Caribbean": {
+    "bg": "hsl(16deg 80% 55%)",
+    "border": "hsl(346deg 70% 35%)"
+  },
+  "Caucasus and Central Asia": {
+    "bg": "hsl(29deg 80% 55%)",
+    "border": "hsl(359deg 70% 35%)"
+  },
+  "Central African Republic": {
+    "bg": "hsl(38deg 80% 55%)",
+    "border": "hsl(8deg 70% 35%)"
+  },
+  "Central America": {
+    "bg": "hsl(6deg 80% 55%)",
+    "border": "hsl(336deg 70% 35%)"
+  },
+  "Central and Southern Asia": {
+    "bg": "hsl(169deg 80% 55%)",
+    "border": "hsl(139deg 70% 35%)"
+  },
+  "Central Asia": {
+    "bg": "hsl(40deg 80% 55%)",
+    "border": "hsl(10deg 70% 35%)"
+  },
+  "Chad": {
+    "bg": "hsl(11deg 80% 55%)",
+    "border": "hsl(341deg 70% 35%)"
+  },
+  "Chile": {
+    "bg": "hsl(50deg 80% 55%)",
+    "border": "hsl(20deg 70% 35%)"
+  },
+  "China": {
+    "bg": "#DE2910",
+    "border": "#FFDE00"
+  },
+  "Colombia": {
+    "bg": "#FFD100",
+    "border": "#003893"
+  },
+  "Comoros": {
+    "bg": "hsl(357deg 80% 55%)",
+    "border": "hsl(327deg 70% 35%)"
+  },
+  "Congo": {
+    "bg": "hsl(177deg 80% 55%)",
+    "border": "hsl(147deg 70% 35%)"
+  },
+  "Costa Rica": {
+    "bg": "hsl(176deg 80% 55%)",
+    "border": "hsl(146deg 70% 35%)"
+  },
+  "Côte d'Ivoire": {
+    "bg": "hsl(152deg 80% 55%)",
+    "border": "hsl(122deg 70% 35%)"
+  },
+  "Croatia": {
+    "bg": "hsl(102deg 80% 55%)",
+    "border": "hsl(72deg 70% 35%)"
+  },
+  "Cyprus": {
+    "bg": "hsl(267deg 80% 55%)",
+    "border": "hsl(237deg 70% 35%)"
+  },
+  "Czechia": {
+    "bg": "hsl(130deg 80% 55%)",
+    "border": "hsl(100deg 70% 35%)"
+  },
+  "Democratic Republic of the Congo": {
+    "bg": "hsl(54deg 80% 55%)",
+    "border": "hsl(24deg 70% 35%)"
+  },
+  "Denmark": {
+    "bg": "#C60C30",
+    "border": "#FFFFFF"
+  },
+  "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Developing regions": {
+    "bg": "hsl(39deg 80% 55%)",
+    "border": "hsl(9deg 70% 35%)"
+  },
+  "Djibouti": {
+    "bg": "hsl(51deg 80% 55%)",
+    "border": "hsl(21deg 70% 35%)"
+  },
+  "Dominican Republic": {
+    "bg": "hsl(9deg 80% 55%)",
+    "border": "hsl(339deg 70% 35%)"
+  },
+  "Eastern Africa": {
+    "bg": "hsl(127deg 80% 55%)",
+    "border": "hsl(97deg 70% 35%)"
+  },
+  "Eastern and South-Eastern Asia": {
+    "bg": "hsl(244deg 80% 55%)",
+    "border": "hsl(214deg 70% 35%)"
+  },
+  "Eastern Asia": {
+    "bg": "hsl(71deg 80% 55%)",
+    "border": "hsl(41deg 70% 35%)"
+  },
+  "Eastern Asia (excluding Japan)": {
+    "bg": "#FFFFFF",
+    "border": "#BC002D"
+  },
+  "Eastern Europe": {
+    "bg": "hsl(47deg 80% 55%)",
+    "border": "hsl(17deg 70% 35%)"
+  },
+  "Ecuador": {
+    "bg": "hsl(200deg 80% 55%)",
+    "border": "hsl(170deg 70% 35%)"
+  },
+  "Egypt": {
+    "bg": "hsl(264deg 80% 55%)",
+    "border": "hsl(234deg 70% 35%)"
+  },
+  "El Salvador": {
+    "bg": "hsl(254deg 80% 55%)",
+    "border": "hsl(224deg 70% 35%)"
+  },
+  "Equatorial Guinea": {
+    "bg": "hsl(117deg 80% 55%)",
+    "border": "hsl(87deg 70% 35%)"
+  },
+  "Estonia": {
+    "bg": "hsl(168deg 80% 55%)",
+    "border": "hsl(138deg 70% 35%)"
+  },
+  "Eswatini": {
+    "bg": "hsl(223deg 80% 55%)",
+    "border": "hsl(193deg 70% 35%)"
+  },
+  "Ethiopia": {
+    "bg": "hsl(334deg 80% 55%)",
+    "border": "hsl(304deg 70% 35%)"
+  },
+  "Europe": {
+    "bg": "hsl(263deg 80% 55%)",
+    "border": "hsl(233deg 70% 35%)"
+  },
+  "Europe and Northern America": {
+    "bg": "hsl(172deg 80% 55%)",
+    "border": "hsl(142deg 70% 35%)"
+  },
+  "Fiji": {
+    "bg": "hsl(189deg 80% 55%)",
+    "border": "hsl(159deg 70% 35%)"
+  },
+  "Finland": {
+    "bg": "#003580",
+    "border": "#FFFFFF"
+  },
+  "France": {
+    "bg": "#0055A4",
+    "border": "#EF4135"
+  },
+  "Gabon": {
+    "bg": "hsl(8deg 80% 55%)",
+    "border": "hsl(338deg 70% 35%)"
+  },
+  "Gambia": {
+    "bg": "hsl(28deg 80% 55%)",
+    "border": "hsl(358deg 70% 35%)"
+  },
+  "Georgia": {
+    "bg": "hsl(279deg 80% 55%)",
+    "border": "hsl(249deg 70% 35%)"
+  },
+  "Germany": {
+    "bg": "#000000",
+    "border": "#DD0000"
+  },
+  "Ghana": {
+    "bg": "hsl(276deg 80% 55%)",
+    "border": "hsl(246deg 70% 35%)"
+  },
+  "Greece": {
+    "bg": "hsl(18deg 80% 55%)",
+    "border": "hsl(348deg 70% 35%)"
+  },
+  "Grenada": {
+    "bg": "hsl(121deg 80% 55%)",
+    "border": "hsl(91deg 70% 35%)"
+  },
+  "Guatemala": {
+    "bg": "hsl(170deg 80% 55%)",
+    "border": "hsl(140deg 70% 35%)"
+  },
+  "Guinea": {
+    "bg": "hsl(132deg 80% 55%)",
+    "border": "hsl(102deg 70% 35%)"
+  },
+  "Guinea-Bissau": {
+    "bg": "hsl(166deg 80% 55%)",
+    "border": "hsl(136deg 70% 35%)"
+  },
+  "Guyana": {
+    "bg": "hsl(202deg 80% 55%)",
+    "border": "hsl(172deg 70% 35%)"
+  },
+  "Haiti": {
+    "bg": "hsl(66deg 80% 55%)",
+    "border": "hsl(36deg 70% 35%)"
+  },
+  "Honduras": {
+    "bg": "hsl(5deg 80% 55%)",
+    "border": "hsl(335deg 70% 35%)"
+  },
+  "Hungary": {
+    "bg": "hsl(89deg 80% 55%)",
+    "border": "hsl(59deg 70% 35%)"
+  },
+  "Iceland": {
+    "bg": "hsl(253deg 80% 55%)",
+    "border": "hsl(223deg 70% 35%)"
+  },
+  "India": {
+    "bg": "#FF9933",
+    "border": "#138808"
+  },
+  "Indonesia": {
+    "bg": "hsl(49deg 80% 55%)",
+    "border": "hsl(19deg 70% 35%)"
+  },
+  "Iran (Islamic Republic of)": {
+    "bg": "hsl(39deg 80% 55%)",
+    "border": "hsl(9deg 70% 35%)"
+  },
+  "Iraq": {
+    "bg": "hsl(296deg 80% 55%)",
+    "border": "hsl(266deg 70% 35%)"
+  },
+  "Ireland": {
+    "bg": "hsl(348deg 80% 55%)",
+    "border": "hsl(318deg 70% 35%)"
+  },
+  "Israel": {
+    "bg": "hsl(341deg 80% 55%)",
+    "border": "hsl(311deg 70% 35%)"
+  },
+  "Italy": {
+    "bg": "#009246",
+    "border": "#CE2B37"
+  },
+  "Jamaica": {
+    "bg": "hsl(41deg 80% 55%)",
+    "border": "hsl(11deg 70% 35%)"
+  },
+  "Japan": {
+    "bg": "#FFFFFF",
+    "border": "#BC002D"
+  },
+  "Jordan": {
+    "bg": "hsl(255deg 80% 55%)",
+    "border": "hsl(225deg 70% 35%)"
+  },
+  "Kazakhstan": {
+    "bg": "hsl(315deg 80% 55%)",
+    "border": "hsl(285deg 70% 35%)"
+  },
+  "Kenya": {
+    "bg": "hsl(91deg 80% 55%)",
+    "border": "hsl(61deg 70% 35%)"
+  },
+  "Kiribati": {
+    "bg": "hsl(270deg 80% 55%)",
+    "border": "hsl(240deg 70% 35%)"
+  },
+  "Kyrgyzstan": {
+    "bg": "hsl(121deg 80% 55%)",
+    "border": "hsl(91deg 70% 35%)"
+  },
+  "Landlocked developing countries (LLDCs)": {
+    "bg": "hsl(66deg 80% 55%)",
+    "border": "hsl(36deg 70% 35%)"
+  },
+  "Lao People's Democratic Republic": {
+    "bg": "hsl(57deg 80% 55%)",
+    "border": "hsl(27deg 70% 35%)"
+  },
+  "Latin America and the Caribbean": {
+    "bg": "hsl(180deg 80% 55%)",
+    "border": "hsl(150deg 70% 35%)"
+  },
+  "Latvia": {
+    "bg": "hsl(110deg 80% 55%)",
+    "border": "hsl(80deg 70% 35%)"
+  },
+  "Least Developed Countries (LDCs)": {
+    "bg": "hsl(185deg 80% 55%)",
+    "border": "hsl(155deg 70% 35%)"
+  },
+  "Lebanon": {
+    "bg": "hsl(58deg 80% 55%)",
+    "border": "hsl(28deg 70% 35%)"
+  },
+  "Lesotho": {
+    "bg": "hsl(245deg 80% 55%)",
+    "border": "hsl(215deg 70% 35%)"
+  },
+  "Liberia": {
+    "bg": "hsl(325deg 80% 55%)",
+    "border": "hsl(295deg 70% 35%)"
+  },
+  "Lithuania": {
+    "bg": "hsl(92deg 80% 55%)",
+    "border": "hsl(62deg 70% 35%)"
+  },
+  "Luxembourg": {
+    "bg": "hsl(65deg 80% 55%)",
+    "border": "hsl(35deg 70% 35%)"
+  },
+  "Madagascar": {
+    "bg": "hsl(133deg 80% 55%)",
+    "border": "hsl(103deg 70% 35%)"
+  },
+  "Malawi": {
+    "bg": "hsl(200deg 80% 55%)",
+    "border": "hsl(170deg 70% 35%)"
+  },
+  "Malaysia": {
+    "bg": "hsl(282deg 80% 55%)",
+    "border": "hsl(252deg 70% 35%)"
+  },
+  "Maldives": {
+    "bg": "hsl(180deg 80% 55%)",
+    "border": "hsl(150deg 70% 35%)"
+  },
+  "Mali": {
+    "bg": "hsl(212deg 80% 55%)",
+    "border": "hsl(182deg 70% 35%)"
+  },
+  "Malta": {
+    "bg": "hsl(126deg 80% 55%)",
+    "border": "hsl(96deg 70% 35%)"
+  },
+  "Marshall Islands": {
+    "bg": "hsl(289deg 80% 55%)",
+    "border": "hsl(259deg 70% 35%)"
+  },
+  "Mauritania": {
+    "bg": "hsl(164deg 80% 55%)",
+    "border": "hsl(134deg 70% 35%)"
+  },
+  "Mauritius": {
+    "bg": "hsl(24deg 80% 55%)",
+    "border": "hsl(354deg 70% 35%)"
+  },
+  "Melanesia": {
+    "bg": "hsl(120deg 80% 55%)",
+    "border": "hsl(90deg 70% 35%)"
+  },
+  "Mexico": {
+    "bg": "#006847",
+    "border": "#CE1126"
+  },
+  "Micronesia (Federated States of)": {
+    "bg": "hsl(323deg 80% 55%)",
+    "border": "hsl(293deg 70% 35%)"
+  },
+  "Middle Africa": {
+    "bg": "hsl(70deg 80% 55%)",
+    "border": "hsl(40deg 70% 35%)"
+  },
+  "Mongolia": {
+    "bg": "hsl(115deg 80% 55%)",
+    "border": "hsl(85deg 70% 35%)"
+  },
+  "Montenegro": {
+    "bg": "hsl(307deg 80% 55%)",
+    "border": "hsl(277deg 70% 35%)"
+  },
+  "Morocco": {
+    "bg": "hsl(169deg 80% 55%)",
+    "border": "hsl(139deg 70% 35%)"
+  },
+  "Mozambique": {
+    "bg": "hsl(271deg 80% 55%)",
+    "border": "hsl(241deg 70% 35%)"
+  },
+  "Myanmar": {
+    "bg": "hsl(64deg 80% 55%)",
+    "border": "hsl(34deg 70% 35%)"
+  },
+  "Namibia": {
+    "bg": "hsl(102deg 80% 55%)",
+    "border": "hsl(72deg 70% 35%)"
+  },
+  "Nauru": {
+    "bg": "hsl(206deg 80% 55%)",
+    "border": "hsl(176deg 70% 35%)"
+  },
+  "Nepal": {
+    "bg": "hsl(9deg 80% 55%)",
+    "border": "hsl(339deg 70% 35%)"
+  },
+  "Netherlands (Kingdom of the)": {
+    "bg": "#21468B",
+    "border": "#AE1C28"
+  },
+  "Nicaragua": {
+    "bg": "hsl(160deg 80% 55%)",
+    "border": "hsl(130deg 70% 35%)"
+  },
+  "Niger": {
+    "bg": "hsl(174deg 80% 55%)",
+    "border": "hsl(144deg 70% 35%)"
+  },
+  "Nigeria": {
+    "bg": "hsl(84deg 80% 55%)",
+    "border": "hsl(54deg 70% 35%)"
+  },
+  "North Macedonia": {
+    "bg": "hsl(49deg 80% 55%)",
+    "border": "hsl(19deg 70% 35%)"
+  },
+  "Northern Africa": {
+    "bg": "hsl(175deg 80% 55%)",
+    "border": "hsl(145deg 70% 35%)"
+  },
+  "Northern Africa (exc. Sudan)": {
+    "bg": "hsl(147deg 80% 55%)",
+    "border": "hsl(117deg 70% 35%)"
+  },
+  "Northern Africa and Western Asia": {
+    "bg": "hsl(82deg 80% 55%)",
+    "border": "hsl(52deg 70% 35%)"
+  },
+  "Northern America": {
+    "bg": "hsl(107deg 80% 55%)",
+    "border": "hsl(77deg 70% 35%)"
+  },
+  "Northern Europe": {
+    "bg": "hsl(255deg 80% 55%)",
+    "border": "hsl(225deg 70% 35%)"
+  },
+  "Norway": {
+    "bg": "#BA0C2F",
+    "border": "#00205B"
+  },
+  "Oceania": {
+    "bg": "hsl(339deg 80% 55%)",
+    "border": "hsl(309deg 70% 35%)"
+  },
+  "Oceania (exc. Australia and New Zealand)": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Pakistan": {
+    "bg": "hsl(194deg 80% 55%)",
+    "border": "hsl(164deg 70% 35%)"
+  },
+  "Panama": {
+    "bg": "hsl(165deg 80% 55%)",
+    "border": "hsl(135deg 70% 35%)"
+  },
+  "Papua New Guinea": {
+    "bg": "hsl(87deg 80% 55%)",
+    "border": "hsl(57deg 70% 35%)"
+  },
+  "Paraguay": {
+    "bg": "hsl(173deg 80% 55%)",
+    "border": "hsl(143deg 70% 35%)"
+  },
+  "Peru": {
+    "bg": "hsl(251deg 80% 55%)",
+    "border": "hsl(221deg 70% 35%)"
+  },
+  "Philippines": {
+    "bg": "hsl(308deg 80% 55%)",
+    "border": "hsl(278deg 70% 35%)"
+  },
+  "Poland": {
+    "bg": "hsl(29deg 80% 55%)",
+    "border": "hsl(359deg 70% 35%)"
+  },
+  "Portugal": {
+    "bg": "#006600",
+    "border": "#FF0000"
+  },
+  "Qatar": {
+    "bg": "hsl(326deg 80% 55%)",
+    "border": "hsl(296deg 70% 35%)"
+  },
+  "Republic of Korea": {
+    "bg": "hsl(188deg 80% 55%)",
+    "border": "hsl(158deg 70% 35%)"
+  },
+  "Republic of Moldova": {
+    "bg": "hsl(338deg 80% 55%)",
+    "border": "hsl(308deg 70% 35%)"
+  },
+  "Romania": {
+    "bg": "hsl(248deg 80% 55%)",
+    "border": "hsl(218deg 70% 35%)"
+  },
+  "Russian Federation": {
+    "bg": "hsl(231deg 80% 55%)",
+    "border": "hsl(201deg 70% 35%)"
+  },
+  "Rwanda": {
+    "bg": "hsl(178deg 80% 55%)",
+    "border": "hsl(148deg 70% 35%)"
+  },
+  "Saint Lucia": {
+    "bg": "hsl(308deg 80% 55%)",
+    "border": "hsl(278deg 70% 35%)"
+  },
+  "Samoa": {
+    "bg": "hsl(288deg 80% 55%)",
+    "border": "hsl(258deg 70% 35%)"
+  },
+  "Sao Tome and Principe": {
+    "bg": "hsl(166deg 80% 55%)",
+    "border": "hsl(136deg 70% 35%)"
+  },
+  "Senegal": {
+    "bg": "hsl(164deg 80% 55%)",
+    "border": "hsl(134deg 70% 35%)"
+  },
+  "Serbia": {
+    "bg": "hsl(175deg 80% 55%)",
+    "border": "hsl(145deg 70% 35%)"
+  },
+  "Seychelles": {
+    "bg": "hsl(214deg 80% 55%)",
+    "border": "hsl(184deg 70% 35%)"
+  },
+  "Sierra Leone": {
+    "bg": "hsl(166deg 80% 55%)",
+    "border": "hsl(136deg 70% 35%)"
+  },
+  "Slovakia": {
+    "bg": "hsl(337deg 80% 55%)",
+    "border": "hsl(307deg 70% 35%)"
+  },
+  "Slovenia": {
+    "bg": "hsl(66deg 80% 55%)",
+    "border": "hsl(36deg 70% 35%)"
+  },
+  "Small island developing States (SIDS)": {
+    "bg": "hsl(358deg 80% 55%)",
+    "border": "hsl(328deg 70% 35%)"
+  },
+  "Solomon Islands": {
+    "bg": "hsl(154deg 80% 55%)",
+    "border": "hsl(124deg 70% 35%)"
+  },
+  "South Africa": {
+    "bg": "hsl(344deg 80% 55%)",
+    "border": "hsl(314deg 70% 35%)"
+  },
+  "South America": {
+    "bg": "hsl(22deg 80% 55%)",
+    "border": "hsl(352deg 70% 35%)"
+  },
+  "South Sudan": {
+    "bg": "hsl(329deg 80% 55%)",
+    "border": "hsl(299deg 70% 35%)"
+  },
+  "South-Eastern Asia": {
+    "bg": "hsl(7deg 80% 55%)",
+    "border": "hsl(337deg 70% 35%)"
+  },
+  "Southern Africa": {
+    "bg": "hsl(113deg 80% 55%)",
+    "border": "hsl(83deg 70% 35%)"
+  },
+  "Southern Asia": {
+    "bg": "hsl(121deg 80% 55%)",
+    "border": "hsl(91deg 70% 35%)"
+  },
+  "Southern Europe": {
+    "bg": "hsl(77deg 80% 55%)",
+    "border": "hsl(47deg 70% 35%)"
+  },
+  "Spain": {
+    "bg": "#FFC400",
+    "border": "#AA151B"
+  },
+  "Sri Lanka": {
+    "bg": "hsl(196deg 80% 55%)",
+    "border": "hsl(166deg 70% 35%)"
+  },
+  "State of Palestine": {
+    "bg": "hsl(300deg 80% 55%)",
+    "border": "hsl(270deg 70% 35%)"
+  },
+  "Sub-Saharan Africa": {
+    "bg": "hsl(158deg 80% 55%)",
+    "border": "hsl(128deg 70% 35%)"
+  },
+  "Sub-Saharan Africa (inc. Sudan)": {
+    "bg": "hsl(130deg 80% 55%)",
+    "border": "hsl(100deg 70% 35%)"
+  },
+  "Sudan": {
+    "bg": "hsl(48deg 80% 55%)",
+    "border": "hsl(18deg 70% 35%)"
+  },
+  "Suriname": {
+    "bg": "hsl(175deg 80% 55%)",
+    "border": "hsl(145deg 70% 35%)"
+  },
+  "Sweden": {
+    "bg": "#006AA7",
+    "border": "#FECC00"
+  },
+  "Switzerland": {
+    "bg": "hsl(314deg 80% 55%)",
+    "border": "hsl(284deg 70% 35%)"
+  },
+  "Syrian Arab Republic": {
+    "bg": "hsl(51deg 80% 55%)",
+    "border": "hsl(21deg 70% 35%)"
+  },
+  "Tajikistan": {
+    "bg": "hsl(71deg 80% 55%)",
+    "border": "hsl(41deg 70% 35%)"
+  },
+  "Thailand": {
+    "bg": "hsl(222deg 80% 55%)",
+    "border": "hsl(192deg 70% 35%)"
+  },
+  "Timor-Leste": {
+    "bg": "hsl(258deg 80% 55%)",
+    "border": "hsl(228deg 70% 35%)"
+  },
+  "Togo": {
+    "bg": "hsl(314deg 80% 55%)",
+    "border": "hsl(284deg 70% 35%)"
+  },
+  "Tonga": {
+    "bg": "hsl(54deg 80% 55%)",
+    "border": "hsl(24deg 70% 35%)"
+  },
+  "Trinidad and Tobago": {
+    "bg": "hsl(93deg 80% 55%)",
+    "border": "hsl(63deg 70% 35%)"
+  },
+  "Tunisia": {
+    "bg": "hsl(42deg 80% 55%)",
+    "border": "hsl(12deg 70% 35%)"
+  },
+  "Türkiye": {
+    "bg": "hsl(39deg 80% 55%)",
+    "border": "hsl(9deg 70% 35%)"
+  },
+  "Turkmenistan": {
+    "bg": "hsl(142deg 80% 55%)",
+    "border": "hsl(112deg 70% 35%)"
+  },
+  "Tuvalu": {
+    "bg": "hsl(316deg 80% 55%)",
+    "border": "hsl(286deg 70% 35%)"
+  },
+  "Uganda": {
+    "bg": "hsl(157deg 80% 55%)",
+    "border": "hsl(127deg 70% 35%)"
+  },
+  "Ukraine": {
+    "bg": "#00247D",
+    "border": "#CF142B"
+  },
+  "United Arab Emirates": {
+    "bg": "hsl(294deg 80% 55%)",
+    "border": "hsl(264deg 70% 35%)"
+  },
+  "United Kingdom of Great Britain and Northern Ireland": {
+    "bg": "#00247D",
+    "border": "#CF142B"
+  },
+  "United Republic of Tanzania": {
+    "bg": "hsl(203deg 80% 55%)",
+    "border": "hsl(173deg 70% 35%)"
+  },
+  "United States of America": {
+    "bg": "#B22234",
+    "border": "#3C3B6E"
+  },
+  "Uruguay": {
+    "bg": "hsl(63deg 80% 55%)",
+    "border": "hsl(33deg 70% 35%)"
+  },
+  "Uzbekistan": {
+    "bg": "hsl(35deg 80% 55%)",
+    "border": "hsl(5deg 70% 35%)"
+  },
+  "Vanuatu": {
+    "bg": "hsl(343deg 80% 55%)",
+    "border": "hsl(313deg 70% 35%)"
+  },
+  "Venezuela (Bolivarian Republic of)": {
+    "bg": "hsl(341deg 80% 55%)",
+    "border": "hsl(311deg 70% 35%)"
+  },
+  "Viet Nam": {
+    "bg": "hsl(5deg 80% 55%)",
+    "border": "hsl(335deg 70% 35%)"
+  },
+  "Western Africa": {
+    "bg": "hsl(149deg 80% 55%)",
+    "border": "hsl(119deg 70% 35%)"
+  },
+  "Western Asia": {
+    "bg": "hsl(317deg 80% 55%)",
+    "border": "hsl(287deg 70% 35%)"
+  },
+  "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)": {
+    "bg": "hsl(271deg 80% 55%)",
+    "border": "hsl(241deg 70% 35%)"
+  },
+  "Western Europe": {
+    "bg": "hsl(41deg 80% 55%)",
+    "border": "hsl(11deg 70% 35%)"
+  },
+  "World": {
+    "bg": "hsl(147deg 80% 55%)",
+    "border": "hsl(117deg 70% 35%)"
+  },
+  "Yemen": {
+    "bg": "hsl(337deg 80% 55%)",
+    "border": "hsl(307deg 70% 35%)"
+  },
+  "Zambia": {
+    "bg": "hsl(261deg 80% 55%)",
+    "border": "hsl(231deg 70% 35%)"
+  },
+  "Zimbabwe": {
+    "bg": "hsl(172deg 80% 55%)",
+    "border": "hsl(142deg 70% 35%)"
+  },
+  "Afghanistan": {
+    "bg": "hsl(153deg 80% 55%)",
+    "border": "hsl(123deg 70% 35%)"
+  },
+  "Africa (ILO)": {
+    "bg": "hsl(42deg 80% 55%)",
+    "border": "hsl(12deg 70% 35%)"
+  },
+  "Cambodia": {
+    "bg": "hsl(235deg 80% 55%)",
+    "border": "hsl(205deg 70% 35%)"
+  },
+  "Central and Eastern Europe (ILO)": {
+    "bg": "hsl(50deg 80% 55%)",
+    "border": "hsl(20deg 70% 35%)"
+  },
+  "China, Hong Kong Special Administrative Region": {
+    "bg": "#DE2910",
+    "border": "#FFDE00"
+  },
+  "China, Macao Special Administrative Region": {
+    "bg": "#DE2910",
+    "border": "#FFDE00"
+  },
+  "Cuba": {
+    "bg": "hsl(204deg 80% 55%)",
+    "border": "hsl(174deg 70% 35%)"
+  },
+  "Democratic People's Republic of Korea": {
+    "bg": "hsl(336deg 80% 55%)",
+    "border": "hsl(306deg 70% 35%)"
+  },
+  "Dominica": {
+    "bg": "hsl(115deg 80% 55%)",
+    "border": "hsl(85deg 70% 35%)"
+  },
+  "French Polynesia": {
+    "bg": "hsl(215deg 80% 55%)",
+    "border": "hsl(185deg 70% 35%)"
+  },
+  "Kuwait": {
+    "bg": "hsl(336deg 80% 55%)",
+    "border": "hsl(306deg 70% 35%)"
+  },
+  "Libya": {
+    "bg": "hsl(130deg 80% 55%)",
+    "border": "hsl(100deg 70% 35%)"
+  },
+  "Middle East (ILO)": {
+    "bg": "hsl(148deg 80% 55%)",
+    "border": "hsl(118deg 70% 35%)"
+  },
+  "Middle East and North Africa (ILO)": {
+    "bg": "hsl(70deg 80% 55%)",
+    "border": "hsl(40deg 70% 35%)"
+  },
+  "New Caledonia": {
+    "bg": "hsl(311deg 80% 55%)",
+    "border": "hsl(281deg 70% 35%)"
+  },
+  "New Zealand": {
+    "bg": "hsl(200deg 80% 55%)",
+    "border": "hsl(170deg 70% 35%)"
+  },
+  "North America (ILO)": {
+    "bg": "hsl(277deg 80% 55%)",
+    "border": "hsl(247deg 70% 35%)"
+  },
+  "Oman": {
+    "bg": "hsl(266deg 80% 55%)",
+    "border": "hsl(236deg 70% 35%)"
+  },
+  "Other non-specified areas in Eastern Asia": {
+    "bg": "hsl(76deg 80% 55%)",
+    "border": "hsl(46deg 70% 35%)"
+  },
+  "Polynesia": {
+    "bg": "hsl(149deg 80% 55%)",
+    "border": "hsl(119deg 70% 35%)"
+  },
+  "Saint Vincent and the Grenadines": {
+    "bg": "hsl(265deg 80% 55%)",
+    "border": "hsl(235deg 70% 35%)"
+  },
+  "Saudi Arabia": {
+    "bg": "hsl(143deg 80% 55%)",
+    "border": "hsl(113deg 70% 35%)"
+  },
+  "Somalia": {
+    "bg": "hsl(133deg 80% 55%)",
+    "border": "hsl(103deg 70% 35%)"
+  },
+  "Andorra": {
+    "bg": "hsl(158deg 80% 55%)",
+    "border": "hsl(128deg 70% 35%)"
+  },
+  "Antigua and Barbuda": {
+    "bg": "hsl(174deg 80% 55%)",
+    "border": "hsl(144deg 70% 35%)"
+  },
+  "Bahamas": {
+    "bg": "hsl(338deg 80% 55%)",
+    "border": "hsl(308deg 70% 35%)"
+  },
+  "Bahrain": {
+    "bg": "hsl(10deg 80% 55%)",
+    "border": "hsl(340deg 70% 35%)"
+  },
+  "Brunei Darussalam": {
+    "bg": "hsl(251deg 80% 55%)",
+    "border": "hsl(221deg 70% 35%)"
+  },
+  "Cook Islands": {
+    "bg": "hsl(243deg 80% 55%)",
+    "border": "hsl(213deg 70% 35%)"
+  },
+  "Eritrea": {
+    "bg": "hsl(321deg 80% 55%)",
+    "border": "hsl(291deg 70% 35%)"
+  },
+  "Micronesia": {
+    "bg": "hsl(177deg 80% 55%)",
+    "border": "hsl(147deg 70% 35%)"
+  },
+  "Monaco": {
+    "bg": "hsl(274deg 80% 55%)",
+    "border": "hsl(244deg 70% 35%)"
+  },
+  "Palau": {
+    "bg": "hsl(60deg 80% 55%)",
+    "border": "hsl(30deg 70% 35%)"
+  },
+  "Puerto Rico": {
+    "bg": "hsl(55deg 80% 55%)",
+    "border": "hsl(25deg 70% 35%)"
+  },
+  "Saint Kitts and Nevis": {
+    "bg": "hsl(95deg 80% 55%)",
+    "border": "hsl(65deg 70% 35%)"
+  },
+  "San Marino": {
+    "bg": "hsl(11deg 80% 55%)",
+    "border": "hsl(341deg 70% 35%)"
+  },
+  "Singapore": {
+    "bg": "hsl(153deg 80% 55%)",
+    "border": "hsl(123deg 70% 35%)"
+  },
+  "Liechtenstein": {
+    "bg": "hsl(274deg 80% 55%)",
+    "border": "hsl(244deg 70% 35%)"
+  },
+  "Niue": {
+    "bg": "hsl(158deg 80% 55%)",
+    "border": "hsl(128deg 70% 35%)"
+  },
+  "Tokelau": {
+    "bg": "hsl(358deg 80% 55%)",
+    "border": "hsl(328deg 70% 35%)"
+  },
+  "American Samoa": {
+    "bg": "hsl(32deg 80% 55%)",
+    "border": "hsl(2deg 70% 35%)"
+  },
+  "Bonaire, Sint Eustatius and Saba": {
+    "bg": "hsl(164deg 80% 55%)",
+    "border": "hsl(134deg 70% 35%)"
+  },
+  "French Guiana": {
+    "bg": "hsl(356deg 80% 55%)",
+    "border": "hsl(326deg 70% 35%)"
+  },
+  "Gibraltar": {
+    "bg": "hsl(31deg 80% 55%)",
+    "border": "hsl(1deg 70% 35%)"
+  },
+  "Guadeloupe": {
+    "bg": "hsl(146deg 80% 55%)",
+    "border": "hsl(116deg 70% 35%)"
+  },
+  "Guam": {
+    "bg": "hsl(215deg 80% 55%)",
+    "border": "hsl(185deg 70% 35%)"
+  },
+  "Isle of Man": {
+    "bg": "hsl(47deg 80% 55%)",
+    "border": "hsl(17deg 70% 35%)"
+  },
+  "Jersey": {
+    "bg": "hsl(245deg 80% 55%)",
+    "border": "hsl(215deg 70% 35%)"
+  },
+  "Martinique": {
+    "bg": "hsl(346deg 80% 55%)",
+    "border": "hsl(316deg 70% 35%)"
+  },
+  "Mayotte": {
+    "bg": "hsl(58deg 80% 55%)",
+    "border": "hsl(28deg 70% 35%)"
+  },
+  "Northern Mariana Islands": {
+    "bg": "hsl(306deg 80% 55%)",
+    "border": "hsl(276deg 70% 35%)"
+  },
+  "Réunion": {
+    "bg": "hsl(283deg 80% 55%)",
+    "border": "hsl(253deg 70% 35%)"
+  },
+  "Saint Barthélemy": {
+    "bg": "hsl(15deg 80% 55%)",
+    "border": "hsl(345deg 70% 35%)"
+  },
+  "Saint Helena": {
+    "bg": "hsl(15deg 80% 55%)",
+    "border": "hsl(345deg 70% 35%)"
+  },
+  "Saint Martin (French Part)": {
+    "bg": "hsl(301deg 80% 55%)",
+    "border": "hsl(271deg 70% 35%)"
+  },
+  "Saint Pierre and Miquelon": {
+    "bg": "hsl(90deg 80% 55%)",
+    "border": "hsl(60deg 70% 35%)"
+  },
+  "Turks and Caicos Islands": {
+    "bg": "hsl(341deg 80% 55%)",
+    "border": "hsl(311deg 70% 35%)"
+  },
+  "United States Virgin Islands": {
+    "bg": "#B22234",
+    "border": "#3C3B6E"
+  },
+  "Wallis and Futuna Islands": {
+    "bg": "hsl(109deg 80% 55%)",
+    "border": "hsl(79deg 70% 35%)"
+  },
+  "Anguilla": {
+    "bg": "hsl(320deg 80% 55%)",
+    "border": "hsl(290deg 70% 35%)"
+  },
+  "Aruba": {
+    "bg": "hsl(60deg 80% 55%)",
+    "border": "hsl(30deg 70% 35%)"
+  },
+  "Bermuda": {
+    "bg": "hsl(115deg 80% 55%)",
+    "border": "hsl(85deg 70% 35%)"
+  },
+  "British Virgin Islands": {
+    "bg": "hsl(215deg 80% 55%)",
+    "border": "hsl(185deg 70% 35%)"
+  },
+  "Cayman Islands": {
+    "bg": "hsl(102deg 80% 55%)",
+    "border": "hsl(72deg 70% 35%)"
+  },
+  "Channel Islands": {
+    "bg": "hsl(86deg 80% 55%)",
+    "border": "hsl(56deg 70% 35%)"
+  },
+  "Curaçao": {
+    "bg": "hsl(117deg 80% 55%)",
+    "border": "hsl(87deg 70% 35%)"
+  },
+  "Faroe Islands": {
+    "bg": "hsl(224deg 80% 55%)",
+    "border": "hsl(194deg 70% 35%)"
+  },
+  "Greenland": {
+    "bg": "hsl(9deg 80% 55%)",
+    "border": "hsl(339deg 70% 35%)"
+  },
+  "Sint Maarten (Dutch part)": {
+    "bg": "hsl(315deg 80% 55%)",
+    "border": "hsl(285deg 70% 35%)"
+  },
+  "Montserrat": {
+    "bg": "hsl(214deg 80% 55%)",
+    "border": "hsl(184deg 70% 35%)"
+  },
+  "Netherlands Antilles  [former]": {
+    "bg": "#21468B",
+    "border": "#AE1C28"
+  },
+  "Sudan [former]": {
+    "bg": "hsl(335deg 80% 55%)",
+    "border": "hsl(305deg 70% 35%)"
+  },
+  "Kosovo": {
+    "bg": "hsl(78deg 80% 55%)",
+    "border": "hsl(48deg 70% 35%)"
+  },
+  "Western Sahara": {
+    "bg": "hsl(185deg 80% 55%)",
+    "border": "hsl(155deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Agulhas Current": {
+    "bg": "hsl(350deg 80% 55%)",
+    "border": "hsl(320deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Aleutian Islands": {
+    "bg": "hsl(165deg 80% 55%)",
+    "border": "hsl(135deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Antarctica": {
+    "bg": "hsl(336deg 80% 55%)",
+    "border": "hsl(306deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Arabian Sea": {
+    "bg": "hsl(235deg 80% 55%)",
+    "border": "hsl(205deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Baltic Sea": {
+    "bg": "hsl(318deg 80% 55%)",
+    "border": "hsl(288deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Barents Sea": {
+    "bg": "hsl(120deg 80% 55%)",
+    "border": "hsl(90deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Bay of Bengal": {
+    "bg": "hsl(56deg 80% 55%)",
+    "border": "hsl(26deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Beaufort Sea": {
+    "bg": "hsl(197deg 80% 55%)",
+    "border": "hsl(167deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Benguela Current": {
+    "bg": "hsl(294deg 80% 55%)",
+    "border": "hsl(264deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Black Sea": {
+    "bg": "hsl(32deg 80% 55%)",
+    "border": "hsl(2deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: California Current": {
+    "bg": "hsl(31deg 80% 55%)",
+    "border": "hsl(1deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Canadian Eastern Arctic - West Greenland": {
+    "bg": "hsl(297deg 80% 55%)",
+    "border": "hsl(267deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Canadian High Arctic - North Greenland": {
+    "bg": "hsl(323deg 80% 55%)",
+    "border": "hsl(293deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Canary Current": {
+    "bg": "hsl(5deg 80% 55%)",
+    "border": "hsl(335deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Caribbean Sea": {
+    "bg": "hsl(52deg 80% 55%)",
+    "border": "hsl(22deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Celtic-Biscay Shelf": {
+    "bg": "hsl(342deg 80% 55%)",
+    "border": "hsl(312deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Central Arctic": {
+    "bg": "hsl(111deg 80% 55%)",
+    "border": "hsl(81deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: East Bering Sea": {
+    "bg": "hsl(315deg 80% 55%)",
+    "border": "hsl(285deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: East Brazil Shelf": {
+    "bg": "#009C3B",
+    "border": "#FFDF00"
+  },
+  "Large Marine Ecosystem: East Central Australian Shelf": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Large Marine Ecosystem: East China Sea": {
+    "bg": "#DE2910",
+    "border": "#FFDE00"
+  },
+  "Large Marine Ecosystem: East Siberian Sea": {
+    "bg": "hsl(19deg 80% 55%)",
+    "border": "hsl(349deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Faroe Plateau": {
+    "bg": "hsl(279deg 80% 55%)",
+    "border": "hsl(249deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Greenland Sea": {
+    "bg": "hsl(249deg 80% 55%)",
+    "border": "hsl(219deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Guinea Current": {
+    "bg": "hsl(288deg 80% 55%)",
+    "border": "hsl(258deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Gulf of Alaska": {
+    "bg": "hsl(84deg 80% 55%)",
+    "border": "hsl(54deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Gulf of California": {
+    "bg": "hsl(275deg 80% 55%)",
+    "border": "hsl(245deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Gulf of Mexico": {
+    "bg": "#006847",
+    "border": "#CE1126"
+  },
+  "Large Marine Ecosystem: Gulf of Thailand": {
+    "bg": "hsl(122deg 80% 55%)",
+    "border": "hsl(92deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Hudson Bay Complex": {
+    "bg": "hsl(255deg 80% 55%)",
+    "border": "hsl(225deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Humboldt Current": {
+    "bg": "hsl(66deg 80% 55%)",
+    "border": "hsl(36deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Iberian Coastal": {
+    "bg": "hsl(339deg 80% 55%)",
+    "border": "hsl(309deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Iceland Shelf and Sea": {
+    "bg": "hsl(208deg 80% 55%)",
+    "border": "hsl(178deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Indonesian Sea": {
+    "bg": "hsl(199deg 80% 55%)",
+    "border": "hsl(169deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Insular Pacific-Hawaiian": {
+    "bg": "hsl(126deg 80% 55%)",
+    "border": "hsl(96deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Kara Sea": {
+    "bg": "hsl(6deg 80% 55%)",
+    "border": "hsl(336deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Kuroshio Current": {
+    "bg": "hsl(245deg 80% 55%)",
+    "border": "hsl(215deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Labrador - Newfoundland": {
+    "bg": "hsl(11deg 80% 55%)",
+    "border": "hsl(341deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Laptev Sea": {
+    "bg": "hsl(147deg 80% 55%)",
+    "border": "hsl(117deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Mediterranean Sea": {
+    "bg": "hsl(304deg 80% 55%)",
+    "border": "hsl(274deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: New Zealand Shelf": {
+    "bg": "hsl(55deg 80% 55%)",
+    "border": "hsl(25deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: North Australian Shelf": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Large Marine Ecosystem: North Brazil Shelf": {
+    "bg": "#009C3B",
+    "border": "#FFDF00"
+  },
+  "Large Marine Ecosystem: North Sea": {
+    "bg": "hsl(88deg 80% 55%)",
+    "border": "hsl(58deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Northeast Australian Shelf": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Large Marine Ecosystem: Northeast U.S. Continental Shelf": {
+    "bg": "hsl(293deg 80% 55%)",
+    "border": "hsl(263deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Northern Bering - Chukchi Seas": {
+    "bg": "#00247D",
+    "border": "#CF142B"
+  },
+  "Large Marine Ecosystem: Northwest Australian Shelf": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Large Marine Ecosystem: Norwegian Sea": {
+    "bg": "hsl(287deg 80% 55%)",
+    "border": "hsl(257deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Oyashio Current": {
+    "bg": "hsl(37deg 80% 55%)",
+    "border": "hsl(7deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Pacific Central-American Coastal": {
+    "bg": "hsl(140deg 80% 55%)",
+    "border": "hsl(110deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Patagonian Shelf": {
+    "bg": "hsl(136deg 80% 55%)",
+    "border": "hsl(106deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Red Sea": {
+    "bg": "hsl(180deg 80% 55%)",
+    "border": "hsl(150deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Scotian Shelf": {
+    "bg": "hsl(15deg 80% 55%)",
+    "border": "hsl(345deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Sea of Japan": {
+    "bg": "#FFFFFF",
+    "border": "#BC002D"
+  },
+  "Large Marine Ecosystem: Sea of Okhotsk": {
+    "bg": "hsl(243deg 80% 55%)",
+    "border": "hsl(213deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Somali Coastal Current": {
+    "bg": "hsl(273deg 80% 55%)",
+    "border": "hsl(243deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: South Brazil Shelf": {
+    "bg": "#009C3B",
+    "border": "#FFDF00"
+  },
+  "Large Marine Ecosystem: South China Sea": {
+    "bg": "#DE2910",
+    "border": "#FFDE00"
+  },
+  "Large Marine Ecosystem: South West Australian Shelf": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Large Marine Ecosystem: Southeast Australian Shelf": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Large Marine Ecosystem: Southeast U.S. Continental Shelf": {
+    "bg": "hsl(91deg 80% 55%)",
+    "border": "hsl(61deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: Sulu-Celebes Sea": {
+    "bg": "hsl(302deg 80% 55%)",
+    "border": "hsl(272deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: West Bering Sea": {
+    "bg": "hsl(117deg 80% 55%)",
+    "border": "hsl(87deg 70% 35%)"
+  },
+  "Large Marine Ecosystem: West Central Australian Shelf": {
+    "bg": "#00008B",
+    "border": "#FFCD00"
+  },
+  "Large Marine Ecosystem: Yellow Sea": {
+    "bg": "hsl(31deg 80% 55%)",
+    "border": "hsl(1deg 70% 35%)"
+  },
+  "Christmas Island": {
+    "bg": "hsl(304deg 80% 55%)",
+    "border": "hsl(274deg 70% 35%)"
+  },
+  "Cocos (Keeling) Islands": {
+    "bg": "hsl(194deg 80% 55%)",
+    "border": "hsl(164deg 70% 35%)"
+  },
+  "Falkland Islands (Malvinas)": {
+    "bg": "hsl(128deg 80% 55%)",
+    "border": "hsl(98deg 70% 35%)"
+  },
+  "French Southern Territories": {
+    "bg": "hsl(169deg 80% 55%)",
+    "border": "hsl(139deg 70% 35%)"
+  },
+  "Guernsey": {
+    "bg": "hsl(131deg 80% 55%)",
+    "border": "hsl(101deg 70% 35%)"
+  },
+  "Heard Island and McDonald Islands": {
+    "bg": "hsl(273deg 80% 55%)",
+    "border": "hsl(243deg 70% 35%)"
+  },
+  "Norfolk Island": {
+    "bg": "hsl(71deg 80% 55%)",
+    "border": "hsl(41deg 70% 35%)"
+  },
+  "Pitcairn": {
+    "bg": "hsl(329deg 80% 55%)",
+    "border": "hsl(299deg 70% 35%)"
+  },
+  "South Georgia and the South Sandwich Islands": {
+    "bg": "hsl(232deg 80% 55%)",
+    "border": "hsl(202deg 70% 35%)"
+  },
+  "Svalbard and Jan Mayen Islands": {
+    "bg": "hsl(294deg 80% 55%)",
+    "border": "hsl(264deg 70% 35%)"
+  },
+  "United States Minor Outlying Islands": {
+    "bg": "#B22234",
+    "border": "#3C3B6E"
+  },
+  "Åland Islands": {
+    "bg": "hsl(327deg 80% 55%)",
+    "border": "hsl(297deg 70% 35%)"
+  },
+  "Bouvet Island": {
+    "bg": "hsl(137deg 80% 55%)",
+    "border": "hsl(107deg 70% 35%)"
+  },
+  "British Indian Ocean Territory": {
+    "bg": "#FF9933",
+    "border": "#138808"
+  },
+  "Holy See": {
+    "bg": "hsl(48deg 80% 55%)",
+    "border": "hsl(18deg 70% 35%)"
+  },
+  "Iraq (Central Iraq)": {
+    "bg": "hsl(137deg 80% 55%)",
+    "border": "hsl(107deg 70% 35%)"
+  },
+  "Iraq (Kurdistan Region)": {
+    "bg": "hsl(102deg 80% 55%)",
+    "border": "hsl(72deg 70% 35%)"
+  },
+  "United Kingdom (England and Wales)": {
+    "bg": "#00247D",
+    "border": "#CF142B"
+  },
+  "United Kingdom (Northern Ireland)": {
+    "bg": "#00247D",
+    "border": "#CF142B"
+  },
+  "United Kingdom (Scotland)": {
+    "bg": "#00247D",
+    "border": "#CF142B"
+  }
+}

@@ -1,0 +1,89 @@
+[
+  {
+    "number": 1,
+    "title": "Geen Armoede",
+    "description": "Beëindig armoede in al haar vormen overal",
+    "color": "#E5243B",
+    "icon": "🏚️",
+    "implemented": true
+  },
+  {
+    "number": 2,
+    "title": "Geen Honger",
+    "description": "Beëindig honger, bereik voedselzekerheid en betere voeding",
+    "color": "#DDA63A",
+    "icon": "🌾",
+    "implemented": true
+  },
+  {
+    "number": 3,
+    "title": "Goede Gezondheid en Welzijn",
+    "description": "Waarborg een gezond leven en bevorder welzijn voor iedereen",
+    "color": "#4C9F38",
+    "icon": "🏥",
+    "implemented": true
+  },
+
+   {
+    "number": 4,
+    "title": "Ongelijkheid Verminderen",
+    "description": "Verminder ongelijkheid binnen en tussen landen",
+    "color": "#DD1367",
+    "icon": "⚖️",
+    "implemented": true
+  },
+
+  {
+    "number": 5,
+    "title": "Kwaliteitsonderwijs",
+    "description": "Waarborg inclusief en rechtvaardig kwaliteitsonderwijs",
+    "color": "#C5192D",
+    "icon": "📚",
+    "implemented": true
+  },
+
+   {
+    "number": 6,
+    "title": "Leven op het Land",
+    "description": "Bescherm, herstel en bevorder duurzaam gebruik van ecosystemen",
+    "color": "#56C02B",
+    "icon": "🌲",
+    "implemented": true
+  },
+  
+  {
+    "number": 7,
+    "title": "Betaalbare en Schone Energie",
+    "description": "Waarborg toegang tot betaalbare, betrouwbare, duurzame energie",
+    "color": "#FCC30B",
+    "icon": "⚡",
+    "implemented": true
+  },
+
+  {
+    "number": 8,
+    "title": "Waardig Werk en Economische Groei",
+    "description": "Bevorder aanhoudende, inclusieve economische groei en werkgelegenheid",
+    "color": "#A21942",
+    "icon": "💼",
+    "implemented": true
+  },
+    
+  {
+    "number": 9,
+    "title": "Klimaatactie",
+    "description": "Neem dringende actie om klimaatverandering te bestrijden",
+    "color": "#3F7E44",
+    "icon": "🌍",
+    "implemented": true
+  },
+
+  {
+    "number": 10,
+    "title": "Leven in het Water",
+    "description": "Behoud en gebruik oceanen, zeeën duurzaam",
+    "color": "#0A97D9",
+    "icon": "🌊",
+    "implemented": true
+  }
+]
